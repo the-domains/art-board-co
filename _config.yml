@@ -6,9 +6,13 @@ color:
   saturation: 0.6489797041285783
   rhythmicContrast: 0.1108989140484482
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
 name: Art Board Co
+navigation:
+  - url: 'http://www.instagram.com/artboardco'
+    name: Let's Connect on Instagram
+    type: external
