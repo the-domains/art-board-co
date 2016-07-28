@@ -19,7 +19,4 @@ navigation:
   - url: 'http://www.facebook.com/artboardco'
     name: Let's Chat on Facebook
     type: external
-  - url: 'http://www.twitter.com/artboardco'
-    name: Tweet Us!
-    type: external
 title: Art Board Co
