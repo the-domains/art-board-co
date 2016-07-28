@@ -22,7 +22,7 @@ color:
     - '#BDF271'
     - '#FFFFA6'
   lightness: 0.5587293535936624
-typography_spectrum: 0.6655611617024988
+typography_spectrum: 0.6035448
 navigation:
   - url: 'http://www.instagram.com/artboardco'
     name: Let's Connect on Instagram
@@ -30,5 +30,5 @@ navigation:
   - url: 'http://www.facebook.com/artboardco'
     name: Let's Chat on Facebook
     type: external
-layout_spectrum: 0
+layout_spectrum: 0.05783582
 name: Art Board Co
