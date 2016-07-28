@@ -1,8 +1,19 @@
-typography_spectrum: 0.6655611617024988
+title: Art Board Co
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.009951303014531732
-  lightness: 0.5587293535936624
   saturation: 0.6489797041285783
+  brandStrength: 0.009951303014531732
   rhythmicContrast: 0.1108989140484482
   brandColors:
     - '#2F2933'
@@ -10,8 +21,8 @@ color:
     - '#29D9C2'
     - '#BDF271'
     - '#FFFFA6'
-layout_spectrum: 0.006241393741220236
-name: Art Board Co
+  lightness: 0.5587293535936624
+typography_spectrum: 0.6655611617024988
 navigation:
   - url: 'http://www.instagram.com/artboardco'
     name: Let's Connect on Instagram
@@ -19,4 +30,5 @@ navigation:
   - url: 'http://www.facebook.com/artboardco'
     name: Let's Chat on Facebook
     type: external
-title: Art Board Co
+layout_spectrum: 0
+name: Art Board Co
